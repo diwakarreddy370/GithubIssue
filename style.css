@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+#pageTitle {
+     padding: 10px; 
+    /* background-color: #b66a6a; */
+    /* width: 5px;  */
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+button {
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+#load-prve {
+    background-color: chartreuse;
+
+}
+#load-next {
+    background-color: red;
+}
+ol {
+    width: 30px;
+    margin: auto;
+}
+ol > li{
+    display: block;
+    padding: 10px;
+    margin: 5px;
+     /* background-color: #dada8d;  */
+    color: #40403b;
+}
